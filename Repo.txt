@@ -1,2 +1,6 @@
 Има някакъв текст.
+
 Update от GitBash.
+
+Добавям още неща от TortoiseGit.
+
